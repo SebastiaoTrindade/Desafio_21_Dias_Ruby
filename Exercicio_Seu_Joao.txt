@@ -1,0 +1,20 @@
+Seu João tem um comércio e precisa de um software que faça
+o cálculo da porcentagem de desconto que ele dará para os seus clientes
+no valor total da compra.
+* Faça um software que solicite o valor total do pedido
+* Solicite o valor da porcentagem e logo após mostre o valor com desconto
+e o valor descontado.
+Mudar o sistema para que ele pergunte qual o produto que o cliente pegou e o valor total deste produto.
+Se o valor total descontado for inferior a R$ 10,00, oferecer mais um produto no pedido.
+Perguntar o nome deste produto e o valor
+
+O desconto de x% será dado no valor total com os itens
+
+Novas alterações no software
+# Digitar o nome e o valor do produto
+# Verificar se o valor é inferior a 10, se sim rodar a regra de acréscimo de item
+# Pedir a porcentagem de desconto
+# Mostrar um resumo detalhado de tudo que aconteceu até a sua finalização,com nome e valores dos produtos
+
+
+Joao ficará muito feliz se você resolver o problema dele :)
